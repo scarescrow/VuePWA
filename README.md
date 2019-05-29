@@ -1,5 +1,8 @@
 # zip-info-pwa
 
+A simple Progressive Web App written in Vue.js which extracts information about US zip codes.
+Live demo can be viewed [here](https://zippy-up.web.app/)
+
 ## Project setup
 ```
 yarn install

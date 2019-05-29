@@ -1,4 +1,9 @@
 .DS_Store
+.firebase
+.firebaserc
+firebase.json
+yarn.lock
+public
 node_modules
 /dist
 
